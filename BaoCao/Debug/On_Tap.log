@@ -1,0 +1,7 @@
+﻿  On_Tap.cpp
+C:\Users\user\source\repos\BaoCao\On_Tap.cpp(198,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\BaoCao\On_Tap.cpp(198,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\BaoCao\On_Tap.cpp(199,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\BaoCao\On_Tap.cpp(199,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\BaoCao\On_Tap.cpp(253,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  On_Tap.vcxproj -> C:\Users\user\source\repos\BaoCao\Debug\On_Tap.exe
